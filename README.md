@@ -53,9 +53,10 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 
 ## 📈 Estatísticas GitHub
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeaugustoweissheimer&show_icons=true&theme=default&count_private=true)
+![Estatísticas GitHub](https://github-readme-stats-codestackr.vercel.app/api?username=weissheimerfelipe&show_icons=true&theme=default&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeaugustoweissheimer&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=weissheimerfelipe&layout=compact&theme=default)
+
 
 ---
 
