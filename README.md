@@ -17,7 +17,6 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
   <img src="https://img.shields.io/badge/-Active_Directory-%23007ACC?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-%23F46800?style=flat&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/-Apache-%23D22128?style=flat&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-PowerShell-%2351A2F1?style=flat&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bash-%234EAA25?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/-Batch_Scripting-%23000000?style=flat&logo=windows-terminal&logoColor=white" />
