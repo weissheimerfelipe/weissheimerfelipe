@@ -24,6 +24,9 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
   <img src="https://img.shields.io/badge/-Pi--hole-%23F60D1A?style=flat&logo=pi-hole&logoColor=white" />
   <img src="https://img.shields.io/badge/-NodeMCU/ESP8266-%23000000?style=flat&logo=esphome&logoColor=white" />
   <img src="https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ubiquiti-%23000000?style=flat&logo=network&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MikroTik-%23000000?style=flat&logo=internet-explorer&logoColor=white" />
+
 </p>
 
 ---
