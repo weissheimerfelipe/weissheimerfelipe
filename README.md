@@ -1,34 +1,71 @@
-## Olá! Eu sou o Felipe Augusto Weissheimer
+<!-- Perfil README - Felipe Augusto Weissheimer -->
 
-Sou Coordenador de T.I., com foco em infraestrutura, redes, automação e desenvolvimento de soluções práticas. Autodidata por natureza, sou movido pela curiosidade e pela vontade de transformar conhecimento em utilidade real para ambientes corporativos e pessoais.
+<h1 align="center">Olá! Eu sou o Felipe Augusto Weissheimer 👨‍💻</h1>
 
-Tenho experiência com servidores Linux e Windows, implantação de Active Directory, automação de instalações com WDS, scripts personalizados, monitoramento com Grafana, autenticação via RADIUS e controle de acesso com UniFi. Também desenvolvo projetos de eletrônica e IoT com Arduino e placas NodeMCU (ESP8266/ESP32).
+<p align="center">
+Coordenador de T.I. no Oeste do Paraná, apaixonado por tecnologia, automação e soluções úteis.  
+Sempre explorando novas formas de transformar conhecimento em eficiência.
+</p>
 
 ---
 
-### Áreas de interesse
+### 🛠️ Tecnologias e Ferramentas que uso no dia a dia:
 
-- Administração de sistemas Windows e Linux
-- Active Directory e gerenciamento de GPOs
-- Instalação automatizada do Windows com WDS
-- Automação com Bash, PowerShell e Batch
+<p align="left">
+  <img src="https://img.shields.io/badge/-Linux-%23007ACC?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Server-%230078D7?style=flat&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Active_Directory-%23007ACC?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Grafana-%23F46800?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apache-%23D22128?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PowerShell-%2351A2F1?style=flat&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bash-%234EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Batch_Scripting-%23000000?style=flat&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pi--hole-%23F60D1A?style=flat&logo=pi-hole&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NodeMCU/ESP8266-%23000000?style=flat&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+### 📌 Áreas de interesse
+
+- Infraestrutura de redes (Windows e Linux)
+- Active Directory, GPOs e automações
+- WDS e instalação automatizada de Windows
+- Scripts personalizados com PowerShell, Batch e Bash
 - Monitoramento com Grafana e Telegraf
-- Desenvolvimento web voltado à utilidade e desempenho
-- Autenticação de rede com RADIUS e UniFi Controller
-- Projetos com Arduino e NodeMCU (ESP8266/ESP32)
-- Infraestrutura e segurança de redes
+- RADIUS + UniFi Controller para autenticação Wi-Fi
+- Desenvolvimento web com foco em desempenho
+- Projetos de automação com Arduino e NodeMCU (ESP8266/ESP32)
 
 ---
 
-### Alguns projetos que mantenho
+### 🚀 Projetos em destaque
 
-- Scripts para personalização e limpeza do Windows
-- Instalação automatizada de ambientes com Apache, PHP e FTP
-- Lista personalizada de bloqueio de sites de jogos para Pi-hole
-- Integração de autenticação Wi-Fi com RADIUS e UniFi
-- Automação de imagens Windows com WDS
-- Projetos de IoT com NodeMCU e sensores diversos
+- Scripts para personalização e limpeza de sistemas Windows
+- Implantação automatizada de ambientes Apache/PHP/FTP
+- Lista personalizada de bloqueio de jogos para Pi-hole
+- Integração de autenticação Wi-Fi com RADIUS + UniFi
+- Projetos de IoT com NodeMCU e sensores
 
 ---
 
-Este perfil está em constante evolução. Sinta-se à vontade para explorar meus repositórios, contribuir com ideias ou trocar experiências sobre tecnologia, redes, automação e desenvolvimento prático.
+### 📈 Estatísticas GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeaugustoweissheimer&show_icons=true&hide_title=false&hide=issues&include_all_commits=true&count_private=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeaugustoweissheimer&layout=compact&langs_count=10&theme=default" />
+</p>
+
+---
+
+### 📫 Contato
+
+- **E-mail pessoal:** [felipeaugustoweissheimer2@gmail.com](mailto:felipeaugustoweissheimer2@gmail.com)  
+- **E-mail alternativo:** [weissheimer.felipe@proton.me](mailto:weissheimer.felipe@proton.me)  
+- **LinkedIn:** [linkedin.com/in/felipe-augusto-weissheimer-8b2183274](https://www.linkedin.com/in/felipe-augusto-weissheimer-8b2183274/)
+
+---
+
+*Este perfil está em constante evolução. Fique à vontade para explorar meus repositórios e trocar ideias sobre infraestrutura, automação e desenvolvimento prático!*
