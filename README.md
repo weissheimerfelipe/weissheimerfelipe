@@ -13,6 +13,7 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Linux-%23007ACC?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Samba_File_Server-%232C4557?style=flat&logo=samba&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_Server-%230078D7?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Active_Directory-%23007ACC?style=flat&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Grafana-%23F46800?style=flat&logo=grafana&logoColor=white" />
