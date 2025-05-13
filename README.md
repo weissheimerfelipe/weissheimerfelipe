@@ -1,9 +1,9 @@
 <!-- Perfil README - Felipe Augusto Weissheimer -->
 
-<h1 align="center">Olá! Eu sou o Felipe Augusto Weissheimer 👨‍💻</h1>
+<h1 align="center">Olá! Sou Felipe Augusto Weissheimer 👨‍💻</h1>
 
 <p align="center">
-Coordenador de T.I. no Oeste do Paraná, apaixonado por tecnologia, automação e soluções úteis.  
+Coordenador de T.I., apaixonado por tecnologia, automação e soluções úteis.  
 Sempre explorando novas formas de transformar conhecimento em eficiência.
 </p>
 
@@ -34,7 +34,7 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 - Active Directory, GPOs e automações
 - WDS e instalação automatizada de Windows
 - Scripts personalizados com PowerShell, Batch e Bash
-- Monitoramento com Grafana e Telegraf
+- Monitoramento com Grafana e Zabbix
 - RADIUS + UniFi Controller para autenticação Wi-Fi
 - Desenvolvimento web com foco em desempenho
 - Projetos de automação com Arduino e NodeMCU (ESP8266/ESP32)
@@ -44,19 +44,18 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 ### 🚀 Projetos em destaque
 
 - Scripts para personalização e limpeza de sistemas Windows
-- Implantação automatizada de ambientes Apache/PHP/FTP
-- Lista personalizada de bloqueio de jogos para Pi-hole
+- Implantação automatizada de ambientes WEB
+- Lista personalizada de bloqueio de jogos
 - Integração de autenticação Wi-Fi com RADIUS + UniFi
 - Projetos de IoT com NodeMCU e sensores
 
 ---
 
-### 📈 Estatísticas GitHub
+## 📈 Estatísticas GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeaugustoweissheimer&show_icons=true&hide_title=false&hide=issues&include_all_commits=true&count_private=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeaugustoweissheimer&layout=compact&langs_count=10&theme=default" />
-</p>
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeaugustoweissheimer&show_icons=true&theme=default&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeaugustoweissheimer&layout=compact&theme=default)
 
 ---
 
