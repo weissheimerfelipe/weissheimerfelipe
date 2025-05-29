@@ -26,6 +26,7 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
   <img src="https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/-Ubiquiti-%23055ACA?style=flat&logo=wi-fi&logoColor=white" />
   <img src="https://img.shields.io/badge/-MikroTik-%23000000?style=flat&logo=internet-explorer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-N8N-%2322284C?style=flat&logo=n8n&logoColor=white" />
 
 </p>
 
