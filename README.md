@@ -69,18 +69,15 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 
 ---
 
-## 📈 Estatísticas GitHub
+## 📈 GitHub
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=weissheimerfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weissheimerfelipe&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/weissheimerfelipe">
+    <img src="https://img.shields.io/badge/GitHub-weissheimerfelipe-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-
 ### 📫 Contato
 
 - **E-mail pessoal:** [felipeaugustoweissheimer2@gmail.com](mailto:felipeaugustoweissheimer2@gmail.com)
