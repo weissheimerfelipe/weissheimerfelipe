@@ -70,15 +70,42 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 
 ### 🚀 Projetos em destaque
 
-- WMS FlexClima (Logística, RFID e automação operacional)
-- Infraestrutura corporativa baseada em Proxmox VE
-- Active Directory com Samba e compartilhamentos avançados
-- Backup distribuído utilizando PBS e ZeroTier
-- Automações com n8n, APIs e integrações empresariais
-- Scripts para personalização e gerenciamento de ambientes Windows
-- Implantação automatizada de ambientes WEB
-- Integração de autenticação Wi-Fi com RADIUS + UniFi
-- Projetos de IoT com ESP32, sensores e automação
+#### 📦 WMS FlexClima
+
+Sistema de gestão logística desenvolvido para controle de separação, conferência, expedição e rastreabilidade de produtos, com integração RFID, leitura de DANFE, impressão de etiquetas e automações operacionais.
+
+#### 🖥️ Infraestrutura Corporativa com Proxmox VE
+
+Implementação e administração de ambiente virtualizado utilizando máquinas virtuais e containers LXC para serviços críticos da empresa.
+
+#### 🔐 Active Directory + Samba
+
+Implantação de controlador de domínio Linux com autenticação centralizada, compartilhamentos corporativos, ACLs avançadas, GPOs e Access Based Enumeration (ABE).
+
+#### 💾 Backup Distribuído com PBS e ZeroTier
+
+Projeto de backup corporativo utilizando Proxmox Backup Server com replicação segura através de rede privada ZeroTier.
+
+#### 🤖 Automação com n8n e APIs
+
+Desenvolvimento de fluxos automatizados para integração entre sistemas, bancos de dados, APIs, mensageria e processos internos.
+
+#### ⚙️ Scripts e Automações Administrativas
+
+Criação de soluções em PowerShell, Bash e Batch para provisionamento, manutenção e gerenciamento automatizado de ambientes Windows e Linux.
+
+#### 🌐 Implantação Automatizada de Ambientes Web
+
+Configuração e gerenciamento de servidores web, bancos de dados, proxies reversos, SSL e aplicações corporativas.
+
+#### 📶 Autenticação Wi-Fi Corporativa
+
+Integração de RADIUS, UniFi Controller e Active Directory para autenticação centralizada de usuários em redes sem fio.
+
+#### 🔌 IoT e Automação Industrial
+
+Projetos utilizando ESP8266, ESP32, Arduino e Raspberry Pi para monitoramento, automação e coleta de dados em tempo real.
+
 
 ---
 
