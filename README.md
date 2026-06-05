@@ -71,14 +71,13 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 
 ## 📈 Estatísticas GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weissheimerfelipe&layout=compact&langs_count=8&theme=dracula" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=weissheimerfelipe&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="50%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=weissheimerfelipe&theme=dark"/>
-</p>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=weissheimerfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weissheimerfelipe&layout=compact&langs_count=8&theme=dracula"/>
+
+</div>
 
 ---
 
