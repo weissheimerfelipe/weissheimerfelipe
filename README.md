@@ -37,6 +37,19 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
 </p>
 
 ---
+## 🎯 Especialidades
+
+| Área | Tecnologias |
+|--------|-------------|
+| Infraestrutura | Linux, Windows Server, Active Directory |
+| Virtualização | Proxmox VE, LXC, Docker |
+| Backup | PBS, Bacula |
+| Redes | MikroTik, Ubiquiti, Radius |
+| Monitoramento | Grafana, Zabbix |
+| Automação | Bash, PowerShell, n8n |
+| IoT | ESP32, Arduino, Raspberry Pi |
+| Banco de Dados | MariaDB, MySQL |
+---
 
 ### 📌 Áreas de interesse
 
