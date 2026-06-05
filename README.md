@@ -1,11 +1,17 @@
 <!-- Perfil README - Felipe Augusto Weissheimer -->
 
 <h1 align="center">Olá! Sou Felipe Augusto Weissheimer </h1>
+## 👨‍💻 Sobre Mim
 
-<p align="center">
-Analista de T.I, apaixonado por tecnologia, automação e soluções úteis.<br>
-Sempre explorando novas formas de transformar conhecimento em eficiência.
-</p>
+ Marechal Cândido Rondon - PR
+
+ Analista de Tecnologia da Informação
+
+ Atuação focada em infraestrutura corporativa, virtualização, automação de processos e desenvolvimento de soluções para ambientes empresariais.
+
+ Entusiasta de Linux, Proxmox, Docker, Active Directory, IoT e automação.
+
+ Sempre estudando novas tecnologias para transformar processos em soluções eficientes.
 
 ---
 
@@ -34,6 +40,12 @@ Sempre explorando novas formas de transformar conhecimento em eficiência.
   <img src="https://img.shields.io/badge/-Ubiquiti-%23055ACA?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/-MikroTik-%23000000?style=flat&logoColor=white" />
   <img src="https://img.shields.io/badge/-n8n-%23EA4B71?style=flat&logo=n8n&logoColor=white" />
+</p>
+---
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=weissheimerfelipe&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -123,6 +135,13 @@ Projetos utilizando ESP8266, ESP32, Arduino e Raspberry Pi para monitoramento, a
 - **E-mail pessoal:** [felipeaugustoweissheimer2@gmail.com](mailto:felipeaugustoweissheimer2@gmail.com)
 - **E-mail alternativo:** [weissheimer.felipe@proton.me](mailto:weissheimer.felipe@proton.me)
 - **LinkedIn:** [linkedin.com/in/felipe-augusto-weissheimer-8b2183274](https://www.linkedin.com/in/felipe-augusto-weissheimer-8b2183274/)
+
+---
+## 👀 Visitantes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=weissheimerfelipe&style=for-the-badge&color=blue" />
+</p>
 
 ---
 
